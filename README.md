@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## To start a new Create React App project with TypeScript, you can run:
 
-### npx create-react-app my-app --template typescript
+### `npx create-react-app my-app --template typescript`
 or
-### yarn create react-app my-app --template typescript
+### `yarn create react-app my-app --template typescript`
 
 ## Available Scripts
 
