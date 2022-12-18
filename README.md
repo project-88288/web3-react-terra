@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To start a new Create React App project with TypeScript, you can run:
+
+# npx create-react-app my-app --template typescript
+or
+# yarn create react-app my-app --template typescript
+
 ## Available Scripts
 
 In the project directory, you can run:
